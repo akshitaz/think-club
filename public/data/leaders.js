@@ -10,7 +10,7 @@ const data = [
   {
     name: "Jiya Makhija",
     post: "Vice President",
-  },
+  },  
   {
     name: "Aryan Sinha",
     post: "Vice President",
